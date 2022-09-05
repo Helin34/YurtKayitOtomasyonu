@@ -1,0 +1,13 @@
+C:\Users\helin\source\repos\YurtKayitOtomasyonu\YurtKayitOtomasyonu\bin\Debug\YurtKayitOtomasyonu.exe.config
+C:\Users\helin\source\repos\YurtKayitOtomasyonu\YurtKayitOtomasyonu\bin\Debug\YurtKayitOtomasyonu.exe
+C:\Users\helin\source\repos\YurtKayitOtomasyonu\YurtKayitOtomasyonu\bin\Debug\YurtKayitOtomasyonu.pdb
+C:\Users\helin\source\repos\YurtKayitOtomasyonu\YurtKayitOtomasyonu\obj\Debug\YurtKayitOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\helin\source\repos\YurtKayitOtomasyonu\YurtKayitOtomasyonu\obj\Debug\YurtKayitOtomasyonu.Form1.resources
+C:\Users\helin\source\repos\YurtKayitOtomasyonu\YurtKayitOtomasyonu\obj\Debug\YurtKayitOtomasyonu.Properties.Resources.resources
+C:\Users\helin\source\repos\YurtKayitOtomasyonu\YurtKayitOtomasyonu\obj\Debug\YurtKayitOtomasyonu.csproj.GenerateResource.cache
+C:\Users\helin\source\repos\YurtKayitOtomasyonu\YurtKayitOtomasyonu\obj\Debug\YurtKayitOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\helin\source\repos\YurtKayitOtomasyonu\YurtKayitOtomasyonu\obj\Debug\YurtKayitOtomasyonu.exe
+C:\Users\helin\source\repos\YurtKayitOtomasyonu\YurtKayitOtomasyonu\obj\Debug\YurtKayitOtomasyonu.pdb
+C:\Users\helin\source\repos\YurtKayitOtomasyonu\YurtKayitOtomasyonu\obj\Debug\YurtKayitOtomasyonu.FrmBolumler.resources
+C:\Users\helin\source\repos\YurtKayitOtomasyonu\YurtKayitOtomasyonu\obj\Debug\YurtKayitOtomasyonu.FrmAnaSayfa.resources
+C:\Users\helin\source\repos\YurtKayitOtomasyonu\YurtKayitOtomasyonu\obj\Debug\YurtKayitOtomasyonu.frmodemler.resources
